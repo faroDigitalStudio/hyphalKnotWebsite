@@ -37,10 +37,10 @@ By focusing on clarity, conciseness, and technical efficiency, The Hyphal Knot w
 * fixed NavBar
 * social media links
 * The Hyphal Knot color palette, used throughout site:
-	- ![#FEF8EC](https://placehold.it/15/XXXXX/000000?text=+) `#FEF8EC`
-	- ![#D49B0C](https://placehold.it/15/XXXXX/000000?text=+) `#D49B0C`
-	- ![#B8860B](https://placehold.it/15/XXXXX/000000?text=+) `#B8860B`
-  - ![#3D3D3D](https://placehold.it/15/XXXXX/000000?text=+) `#3D3D3D`
+	- ![#FEF8EC](https://placehold.it/15/FEF8EC/000000?text=+) `#FEF8EC`
+	- ![#D49B0C](https://placehold.it/15/D49B0C/000000?text=+) `#D49B0C`
+	- ![#B8860B](https://placehold.it/15/B8860B/000000?text=+) `#B8860B`
+  - ![#3D3D3D](https://placehold.it/15/3D3D3D/000000?text=+) `#3D3D3D`
 * contact form
 
 ### Planning
