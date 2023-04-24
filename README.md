@@ -1,6 +1,6 @@
 # hyphalKnotWebsite
 ## Landing page for The Hyphal Knot podcast
-## TBH @ [thehyphalknot.com](https://thehyphalknot.com/), from github page @ [theHyphalKnot.github.io](https://theHyphalKnot.github.io)
+## Hosted @ [thehyphalknot.com](https://thehyphalknot.com/), from github page @ [theHyphalKnot.github.io](https://theHyphalKnot.github.io)
 
 **Version: 0.0.1**
 
@@ -20,30 +20,28 @@ To maintain user interest and encourage return visits, the website will showcase
 By focusing on clarity, conciseness, and technical efficiency, The Hyphal Knot website aims to create an accessible and dynamic online presence, catering to both new and existing listeners while fostering a sense of community within the growing mycology audience.
 
 #### Layout
-* landing
-  * overview of podcast and history
-  * topics and links
-  * link to spotify / youtube
+* about
+  * overview of podcast
+  * categories and icons
 * episodes
   * featured upcoming episode(s)
   * episode archive with image
-  * brief description with link to spotify / MMP / dedicated page
-* blog
+  * pop-up with description and link to spotify
+* team
 * contact / follow
   * contact form
   * social links
 
 #### Features
-* media player
 * episode archive
 * fixed NavBar
 * social media links
 * The Hyphal Knot color palette, used throughout site:
-	- ![#XXXXXX](https://placehold.it/15/XXXXX/000000?text=+) `#XXXXXX`
-	- ![#XXXXXX](https://placehold.it/15/XXXXX/000000?text=+) `#XXXXXX`
-	- ![#XXXXXX](https://placehold.it/15/XXXXX/000000?text=+) `#XXXXXX`
+	- ![#FEF8EC](https://placehold.it/15/XXXXX/000000?text=+) `#FEF8EC`
+	- ![#D49B0C](https://placehold.it/15/XXXXX/000000?text=+) `#D49B0C`
+	- ![#B8860B](https://placehold.it/15/XXXXX/000000?text=+) `#B8860B`
+  - ![#3D3D3D](https://placehold.it/15/XXXXX/000000?text=+) `#3D3D3D`
 * contact form
-* blog and announcements
 
 ### Planning
 - [x] set up repo
@@ -53,12 +51,13 @@ By focusing on clarity, conciseness, and technical efficiency, The Hyphal Knot w
 - [x] configure DNS
 - [x] SSL certificate
 - [x] bootstrap with template
-- [ ] customize as needed
-- [ ] landing area
+- [x] make more responsive to dynamic window sizing
+- [x] fix masthead issues
+- [x] adjust heading styling
+- [x] "about" container 
+- [x] icons for categories
 - [ ] featured upcoming episodes
 - [ ] episode archive
-- [ ] blog
-- [ ] multimedia player
 - [ ] integration with Spotify
 - [ ] social links
 - [ ] contact form
@@ -67,7 +66,18 @@ By focusing on clarity, conciseness, and technical efficiency, The Hyphal Knot w
 - [ ] link analytics
 
 ### Updates
-#### v0.0.1. [[PENDING]]
+#### v0.0.2
+* established layout
+* updated palette
+* trimmed fat
+* added categories
+* parallax bg
+* adjusted logo
+* made display more responsive to window size
+* adjusted "about" width
+* adjusted h3 stylizing
+* adjusted categories
+#### v0.0.1
 * bootstraped
 * configured CNAME
 * create Google Analytics property
