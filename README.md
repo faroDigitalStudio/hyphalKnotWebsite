@@ -54,19 +54,36 @@ By focusing on clarity, conciseness, and technical efficiency, The Hyphal Knot w
 - [x] make more responsive to dynamic window sizing
 - [x] fix masthead issues
 - [x] adjust heading styling
-- [x] "about" container 
+- [x] "about" section
+- [x] "episodes" section
+- [x] "team" section
+- [x] "contact" section
+- [x] footer 
 - [x] icons for categories
-- [ ] featured upcoming episodes
-- [ ] episode archive
+- [x] featured upcoming episodes
+- [x] episode archive
 - [ ] integration with Spotify
-- [ ] social links
-- [ ] contact form
+- [x] social links
+- [x] contact form
 - [ ] set up google recaptcha
-- [ ] create GA property
-- [ ] link analytics
+- [x] create GA property
+- [x] link analytics
 
 ### Updates
-#### v0.0.2
+#### V1.0
+* formatted episode modals
+* formatted episode library (grid)
+* formatted team section
+* set up contact form
+* integrated reCAPTCHA
+* updated images
+* adjusted highlight color for social links
+* altered episode cover icons
+* adjusted footer
+* linked episodes to navBar 
+* set up analytics
+* **MILESTONE: *Initial Release***
+#### V0.2
 * established layout
 * updated palette
 * trimmed fat
@@ -77,7 +94,7 @@ By focusing on clarity, conciseness, and technical efficiency, The Hyphal Knot w
 * adjusted "about" width
 * adjusted h3 stylizing
 * adjusted categories
-#### v0.0.1
+#### v0.1
 * bootstraped
 * configured CNAME
 * create Google Analytics property
